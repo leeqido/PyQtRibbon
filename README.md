@@ -1,2 +1,2 @@
 # PyQtRibbon
-Ribbon toolbar for QMainWindow
+Sub-class of QMainWindow with a Ribbon toolbar
